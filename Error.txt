@@ -1,0 +1,2 @@
+1-Check All VAlidation Before Registration
+2-Do nOt Repeate Username And PAssword in each Hospital
